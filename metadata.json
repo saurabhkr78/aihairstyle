@@ -1,0 +1,7 @@
+{
+  "name": "AI Hairstyle Makeover",
+  "description": "Upload a photo of your face, and our AI will analyze your features to suggest and visualize modern hairstyles that suit you best. See your new look with AI-powered inpainting technology.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
